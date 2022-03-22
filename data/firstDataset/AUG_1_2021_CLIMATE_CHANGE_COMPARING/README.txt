@@ -1,0 +1,40 @@
+surface_pressure
+surface_skin_temperature
+sea_level_pressure
+cloud_top_pressure
+evaporation
+total_skin_temperature_tendency
+net_heating_in_warm_layer
+CO Surface Concentration in ppbv
+CO Emission
+CO Column Burden
+CO Chemical Production
+CO Chemical Loss
+Ammonium Column Mass Density
+SO4 Column Mass Density
+Nitrate Column Mass Density
+Sea Salt Surface Mass Concentration
+Ammonia Column Mass Density
+Nitric Acid Surface Mass Concentration
+Black Carbon Surface Mass Concentration
+Black Carbon Column Mass Density
+SO2 Column Mass Density
+Nitric Acid Column Mass Density
+Dust Column Mass Density
+Nitrate Surface Mass Concentration
+Ammonium Surface Mass Concentration
+total_precipitation
+water_profile
+greenness_fraction
+Evaporation_land
+Total_energy_storage_land
+interception_loss_energy_flux
+Sensible_heat_flux_land
+surface_incoming_shortwave_flux
+surface_absorbed_longwave_radiation
+total_cloud_area_fraction
+surface_albedo
+surface_emissivity
+surface_albedo_for_visible_beam
+surface_albedo_for_near_infrared_beam
+air_density_at_surface 

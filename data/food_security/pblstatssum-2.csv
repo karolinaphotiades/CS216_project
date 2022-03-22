@@ -1,0 +1,365 @@
+SvyDate,ADM0_NAME,ADM1_NAME,ADM2_NAME,AdminStrata,Variable,VariableDescription,Demographic,Mean
+#date,#country+name,#adm1+name,#adm2+name,#loc+name,#indicator+code,#indicator+name,#category,#indicator+value+num
+2016-05-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp,# of days household using this coping strategy per week,,1.15652
+2016-05-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp,# of days household using this coping strategy per week,,2.34211
+2016-05-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp,# of days household using this coping strategy per week,,1.7561
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp,# of days household using this coping strategy per week,,1.49296
+2016-05-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.44457
+2016-05-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.68421
+2016-05-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.56098
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.5493
+2016-05-01T00:00:00,Madagascar,,,Androy,Cassava1smpile,,,835.96491
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ImpRice1cup,,,386.9509
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,ImpRice1cup,,,381.04167
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood,# of days household using this coping strategy per week,,1.9837
+2016-05-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood,# of days household using this coping strategy per week,,3.43421
+2016-05-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood,# of days household using this coping strategy per week,,2.70732
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood,# of days household using this coping strategy per week,,2.90141
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.64891
+2016-05-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.82895
+2016-05-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.78049
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.74648
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize,# of days household using this coping strategy per week,,2.10978
+2016-05-01T00:00:00,Madagascar,,,Androy,LimitPortionSize,# of days household using this coping strategy per week,,3.48684
+2016-05-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize,# of days household using this coping strategy per week,,2.90244
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize,# of days household using this coping strategy per week,,3.30986
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.625
+2016-05-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.80263
+2016-05-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.78049
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.8169
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LocRice1cup,,,391.14458
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LocRice1cup,,,404.54545
+2016-05-01T00:00:00,Madagascar,,,Androy,Maize1cup,,,368.0597
+2016-05-01T00:00:00,Madagascar,,,Anosy,Maize1cup,,,355.55556
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,,3246.46018
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,,14.23261
+2016-05-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,,24.5
+2016-05-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,,20.53659
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,,19.43662
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.77283
+2016-05-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.93421
+2016-05-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.85366
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.85915
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals,# of days household using this coping strategy per week,,1.99565
+2016-05-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals,# of days household using this coping strategy per week,,3.10526
+2016-05-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals,# of days household using this coping strategy per week,,2.92683
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals,# of days household using this coping strategy per week,,3.14085
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.58478
+2016-05-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.78947
+2016-05-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.7561
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.76056
+2016-05-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption,# of days household using this coping strategy per week,,1.94348
+2016-05-01T00:00:00,Madagascar,,,Androy,RestrictConsumption,# of days household using this coping strategy per week,,3.26316
+2016-05-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption,# of days household using this coping strategy per week,,2.82927
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption,# of days household using this coping strategy per week,,2.3662
+2016-05-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.5337
+2016-05-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.76316
+2016-05-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.70732
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.66197
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ToT_ImpRice1cup,,,8.59433
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ToT_LocRice1cup,,,8.57569
+2016-05-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.44295
+2016-05-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.44488
+2016-05-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65455
+2016-05-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.56757
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.52542
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.67114
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.64462
+2016-05-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.76364
+2016-05-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.81081
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.69492
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.66443
+2016-05-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.61738
+2016-05-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.8
+2016-05-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.81081
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.77966
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,F,3173.07692
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,M,3256.0
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,F,15.97987
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,M,13.89494
+2016-05-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,M,22.87273
+2016-05-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,M,21.59459
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,M,16.89831
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.77852
+2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.77173
+2016-05-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.90909
+2016-05-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.89189
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.83051
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.61745
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.57847
+2016-05-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.78182
+2016-05-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.78378
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.71186
+2016-05-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.55705
+2016-05-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.52918
+2016-05-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.70909
+2016-05-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.72973
+2016-05-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.59322
+2016-05-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.49239
+2016-05-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.46968
+2016-05-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.72589
+2016-05-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.66804
+2016-05-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.70558
+2016-05-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65365
+2016-05-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,F,3225.80645
+2016-05-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,M,3315.23438
+2016-05-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,F,18.83249
+2016-05-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,M,15.08016
+2016-05-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.81726
+2016-05-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.79445
+2016-05-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.67513
+2016-05-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.61665
+2016-05-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.62944
+2016-05-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.55498
+2016-06-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp,# of days household using this coping strategy per week,,1.15594
+2016-06-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp,# of days household using this coping strategy per week,,2.16176
+2016-06-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp,# of days household using this coping strategy per week,,1.35
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp,# of days household using this coping strategy per week,,1.5283
+2016-06-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.42656
+2016-06-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.61765
+2016-06-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.575
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.54717
+2016-06-01T00:00:00,Madagascar,,,Androy,Cassava1smpile,,,774.4186
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ImpRice1cup,,,384.4196
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,ImpRice1cup,,,378.18182
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood,# of days household using this coping strategy per week,,2.04225
+2016-06-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood,# of days household using this coping strategy per week,,2.83824
+2016-06-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood,# of days household using this coping strategy per week,,2.775
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood,# of days household using this coping strategy per week,,2.98113
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.62978
+2016-06-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.79412
+2016-06-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.85
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.73585
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize,# of days household using this coping strategy per week,,2.20221
+2016-06-01T00:00:00,Madagascar,,,Androy,LimitPortionSize,# of days household using this coping strategy per week,,3.17647
+2016-06-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize,# of days household using this coping strategy per week,,3.1
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize,# of days household using this coping strategy per week,,3.16981
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.5996
+2016-06-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.76471
+2016-06-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.875
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.73585
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LocRice1cup,,,384.89956
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LocRice1cup,,,383.25
+2016-06-01T00:00:00,Madagascar,,,Androy,Maize1cup,,,373.81818
+2016-06-01T00:00:00,Madagascar,,,Anosy,Maize1cup,,,325.58824
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,,3290.07937
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,,14.58954
+2016-06-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,,23.52941
+2016-06-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,,21.3
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,,21.90566
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.75553
+2016-06-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.86765
+2016-06-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.925
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.83019
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals,# of days household using this coping strategy per week,,2.07545
+2016-06-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals,# of days household using this coping strategy per week,,3.17647
+2016-06-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals,# of days household using this coping strategy per week,,2.675
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals,# of days household using this coping strategy per week,,3.01887
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.59155
+2016-06-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.77941
+2016-06-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.725
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.77358
+2016-06-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption,# of days household using this coping strategy per week,,1.98592
+2016-06-01T00:00:00,Madagascar,,,Androy,RestrictConsumption,# of days household using this coping strategy per week,,3.33824
+2016-06-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption,# of days household using this coping strategy per week,,3.35
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption,# of days household using this coping strategy per week,,3.22642
+2016-06-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.52616
+2016-06-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.77941
+2016-06-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.75
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.67925
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ToT_ImpRice1cup,,,8.54236
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ToT_LocRice1cup,,,8.9253
+2016-06-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.48
+2016-06-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.41408
+2016-06-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.53333
+2016-06-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.54545
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.52174
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.7
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.61575
+2016-06-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.75556
+2016-06-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.84848
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.71739
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.66
+2016-06-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.58831
+2016-06-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.71111
+2016-06-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.87879
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.71739
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,F,3366.66667
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,M,3280.99548
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,F,16.76
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,M,14.14439
+2016-06-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,M,20.68889
+2016-06-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,M,20.51515
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,M,20.5
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.81333
+2016-06-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.74463
+2016-06-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.86667
+2016-06-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.93939
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.80435
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.66
+2016-06-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.57757
+2016-06-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.73333
+2016-06-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.69697
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.76087
+2016-06-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.54667
+2016-06-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.52148
+2016-06-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.73333
+2016-06-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.75758
+2016-06-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65217
+2016-06-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.55392
+2016-06-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.43396
+2016-06-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.75
+2016-06-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.63555
+2016-06-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.71078
+2016-06-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.6137
+2016-06-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,F,3355.26316
+2016-06-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,M,3287.16981
+2016-06-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,F,19.80882
+2016-06-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,M,15.00993
+2016-06-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.83824
+2016-06-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.76266
+2016-06-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.71569
+2016-06-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.60179
+2016-06-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.62745
+2016-06-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.54916
+2016-07-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp,# of days household using this coping strategy per week,,1.2589
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,BorrowOrHelp,# of days household using this coping strategy per week,,1.05405
+2016-07-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp,# of days household using this coping strategy per week,,2.36986
+2016-07-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp,# of days household using this coping strategy per week,,2.34286
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp,# of days household using this coping strategy per week,,1.84211
+2016-07-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.48071
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.40541
+2016-07-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.68493
+2016-07-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.62857
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.57895
+2016-07-01T00:00:00,Madagascar,,,Androy,Cassava1smpile,,,791.66667
+2016-07-01T00:00:00,Madagascar,,,Anosy,Cassava1smpile,,,685.71429
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ImpRice1cup,,,391.55068
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,ImpRice1cup,,,371.53846
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood,# of days household using this coping strategy per week,,2.00445
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,LessExpensiveFood,# of days household using this coping strategy per week,,2.2973
+2016-07-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood,# of days household using this coping strategy per week,,3.05479
+2016-07-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood,# of days household using this coping strategy per week,,3.05714
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood,# of days household using this coping strategy per week,,2.59649
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.63798
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.67568
+2016-07-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.79452
+2016-07-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.82857
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.73684
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize,# of days household using this coping strategy per week,,2.31083
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,LimitPortionSize,# of days household using this coping strategy per week,,2.05405
+2016-07-01T00:00:00,Madagascar,,,Androy,LimitPortionSize,# of days household using this coping strategy per week,,3.39726
+2016-07-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize,# of days household using this coping strategy per week,,3.2
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize,# of days household using this coping strategy per week,,3.03509
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.65282
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.67568
+2016-07-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.80822
+2016-07-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.77143
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.78947
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LocRice1cup,,,396.76823
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,LocRice1cup,,,426.66667
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LocRice1cup,,,383.40909
+2016-07-01T00:00:00,Madagascar,,,Androy,Maize1cup,,,384.84375
+2016-07-01T00:00:00,Madagascar,,,Anosy,Maize1cup,,,398.27586
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,,3293.3162
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,,15.48665
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,rCSI,reduced coping strategy,,14.83784
+2016-07-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,,24.46575
+2016-07-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,,24.37143
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,,20.31579
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.76929
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.81081
+2016-07-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.86301
+2016-07-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.85714
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,,0.84211
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals,# of days household using this coping strategy per week,,2.18398
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,ReduceNumMeals,# of days household using this coping strategy per week,,2.21622
+2016-07-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals,# of days household using this coping strategy per week,,3.41096
+2016-07-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals,# of days household using this coping strategy per week,,3.4
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals,# of days household using this coping strategy per week,,2.94737
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.63131
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.64865
+2016-07-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.80822
+2016-07-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.77143
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.80702
+2016-07-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption,# of days household using this coping strategy per week,,2.15653
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,RestrictConsumption,# of days household using this coping strategy per week,,2.05405
+2016-07-01T00:00:00,Madagascar,,,Androy,RestrictConsumption,# of days household using this coping strategy per week,,3.28767
+2016-07-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption,# of days household using this coping strategy per week,,3.34286
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption,# of days household using this coping strategy per week,,2.68421
+2016-07-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.58457
+2016-07-01T00:00:00,Madagascar,,,Analanjirofo,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.51351
+2016-07-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.75342
+2016-07-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.71429
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,,0.68421
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ToT_ImpRice1cup,,,8.65662
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ToT_LocRice1cup,,,8.55512
+2016-07-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.5
+2016-07-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.47743
+2016-07-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.66667
+2016-07-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.53846
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.58696
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.69388
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.62847
+2016-07-01T00:00:00,Madagascar,,,Androy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.79167
+2016-07-01T00:00:00,Madagascar,,,Anosy,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.76923
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.73913
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.69898
+2016-07-01T00:00:00,Madagascar,,,Analamanga,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.64497
+2016-07-01T00:00:00,Madagascar,,,Androy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.77083
+2016-07-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.73077
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.80435
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,F,3313.72549
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,M,3290.23669
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,F,19.0102
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,M,14.88715
+2016-07-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,M,23.91667
+2016-07-01T00:00:00,Madagascar,,,Anosy,rCSI,reduced coping strategy,M,19.73077
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,rCSI,reduced coping strategy,M,19.58696
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.82653
+2016-07-01T00:00:00,Madagascar,,,Analamanga,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.75955
+2016-07-01T00:00:00,Madagascar,,,Androy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.8125
+2016-07-01T00:00:00,Madagascar,,,Anosy,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.80769
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.84783
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.67347
+2016-07-01T00:00:00,Madagascar,,,Analamanga,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.62413
+2016-07-01T00:00:00,Madagascar,,,Androy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.77083
+2016-07-01T00:00:00,Madagascar,,,Anosy,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.73077
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.80435
+2016-07-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.61224
+2016-07-01T00:00:00,Madagascar,,,Analamanga,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.57986
+2016-07-01T00:00:00,Madagascar,,,Androy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.70833
+2016-07-01T00:00:00,Madagascar,,,Anosy,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65385
+2016-07-01T00:00:00,Madagascar,,,Atsinanana,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.67391
+2016-07-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.54475
+2016-07-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.48825
+2016-07-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.72763
+2016-07-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.64291
+2016-07-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.72763
+2016-07-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65807
+2016-07-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,F,3350.74627
+2016-07-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,M,3311.19403
+2016-07-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,F,20.64591
+2016-07-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,M,15.47915
+2016-07-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.85214
+2016-07-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.76649
+2016-07-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.71206
+2016-07-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.63912
+2016-07-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.66148
+2016-07-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.58908
+2016-09-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.54286
+2016-09-01T00:00:00,Madagascar,,,,BorrowOrHelp>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.50667
+2016-09-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.71429
+2016-09-01T00:00:00,Madagascar,,,,LessExpensiveFood>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.65905
+2016-09-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.67619
+2016-09-01T00:00:00,Madagascar,,,,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.64857
+2016-09-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,F,3432.69231
+2016-09-01T00:00:00,Madagascar,,,,ManLbr,Daily wages for manual labor,M,3374.51524
+2016-09-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,F,17.8619
+2016-09-01T00:00:00,Madagascar,,,,rCSI,reduced coping strategy,M,16.23429
+2016-09-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,F,0.8
+2016-09-01T00:00:00,Madagascar,,,,rCSI>=1,prevalence-->equals to 1 if household using coping strategies,M,0.76857
+2016-09-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.67619
+2016-09-01T00:00:00,Madagascar,,,,ReduceNumMeals>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.6381
+2016-09-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,F,0.58571
+2016-09-01T00:00:00,Madagascar,,,,RestrictConsumption>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.59714
