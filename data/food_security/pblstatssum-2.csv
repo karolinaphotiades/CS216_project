@@ -1,5 +1,4 @@
 SvyDate,ADM0_NAME,ADM1_NAME,ADM2_NAME,AdminStrata,Variable,VariableDescription,Demographic,Mean
-#date,#country+name,#adm1+name,#adm2+name,#loc+name,#indicator+code,#indicator+name,#category,#indicator+value+num
 2016-05-01T00:00:00,Madagascar,,,Analamanga,BorrowOrHelp,# of days household using this coping strategy per week,,1.15652
 2016-05-01T00:00:00,Madagascar,,,Androy,BorrowOrHelp,# of days household using this coping strategy per week,,2.34211
 2016-05-01T00:00:00,Madagascar,,,Anosy,BorrowOrHelp,# of days household using this coping strategy per week,,1.7561
@@ -74,7 +73,7 @@ SvyDate,ADM0_NAME,ADM1_NAME,ADM2_NAME,AdminStrata,Variable,VariableDescription,D
 2016-05-01T00:00:00,Madagascar,,,Anosy,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.81081
 2016-05-01T00:00:00,Madagascar,,,Atsinanana,LimitPortionSize>=1,prevalence-->equals to 1 if household uses this strategy 1 or more times per week,M,0.77966
 2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,F,3173.07692
-2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,M,3256.0
+2016-05-01T00:00:00,Madagascar,,,Analamanga,ManLbr,Daily wages for manual labor,M,3256
 2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,F,15.97987
 2016-05-01T00:00:00,Madagascar,,,Analamanga,rCSI,reduced coping strategy,M,13.89494
 2016-05-01T00:00:00,Madagascar,,,Androy,rCSI,reduced coping strategy,M,22.87273
